@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="188.91032"
+   height="149.84451"
+   id="svg7845"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="New document 9">
+  <defs
+     id="defs7847">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6410-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3859-6"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="94.455168"
+     inkscape:cy="74.922259"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="440"
+     inkscape:window-height="433"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-280.54483,-457.43993)">
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/Documents/Projects/Favors/Katello Sticker/flat-logo_white-shadow.png"
+       id="g7807"
+       transform="matrix(0.79729641,0,0,0.79729641,235.65063,127.77294)"
+       style="fill:#000000">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 147.34375,83.118909 0,22.537341 11.40625,20.90625 -18.5,83.1875 c -4.17838,0.25584 -8.3939,-0.10338 -12.46875,-1.0625 -7.81019,-1.83834 -15.07969,-5.91715 -20.71875,-11.625 4.27804,4.71269 9.52244,8.54432 15.3125,11.1875 12.8461,5.86429 27.62615,5.66841 41.625,3.8125 16.18641,-2.14593 32.17255,-6.36116 48.5,-6.5 10.74147,-0.0913 21.49604,1.60564 31.6875,5 l -18.65625,-84 11.375,-20.90625 0,-22.537341 -20.08673,0 0,12.0768 -14.38202,0 0,-12.0768 -21.88202,0 0,12.0768 -14.6683,0 0,-12.0768 -18.54343,0 m 45.71875,58.912341 c 0.74871,-0.004 1.50106,0.14563 2.17898,0.46345 0.67792,0.31781 1.27596,0.80501 1.72119,1.40696 0.44524,0.60196 0.73308,1.31244 0.88086,2.04644 0.14777,0.73399 0.15647,1.48792 0.15647,2.23664 l 0,13.94026 -9.89331,0 0.0496,-13.94026 c 0.003,-0.74501 0.0139,-1.49506 0.16189,-2.22522 0.14803,-0.73016 0.43383,-1.43699 0.87496,-2.03736 0.44113,-0.60037 1.03317,-1.08824 1.7053,-1.40962 0.67213,-0.32138 1.41906,-0.47734 2.16406,-0.48129"
+         transform="translate(-28,330.36218)"
+         id="path7809"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccscssscccccccccccccsccccs"
+         inkscape:path-effect="#path-effect6410-5"
+         inkscape:original-d="m 147.34375,83.118909 0,22.537341 11.40625,20.90625 -18.5,83.1875 c 0,0 -7.81209,0.45978 -12.46875,-1.0625 -6.48073,-2.11858 -20.71875,-11.625 -20.71875,-11.625 0,0 2.94743,5.10563 15.3125,11.1875 24.18051,11.8934 37.4274,4.38606 41.625,3.8125 13.54185,-1.85037 34.83232,-6.5133 48.5,-6.5 13.57309,0.0132 31.6875,5 31.6875,5 l -18.65625,-84 11.375,-20.90625 0,-22.537341 -20.08673,0 0,12.0768 -14.38202,0 0,-12.0768 -21.88202,0 0,12.0768 -14.6683,0 0,-12.0768 z m 45.71875,58.912341 c 3.47804,-0.20064 4.9375,3.55993 4.9375,6.15349 l 0,13.94026 -9.89331,0 0.0496,-13.94026 c -0.32112,-5.63956 -0.11285,-5.86395 4.90621,-6.15349 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Overpass;-inkscape-font-specification:Overpass Bold"
+         x="52.714294"
+         y="600.93359"
+         id="text7811"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7813"
+           x="52.714294"
+           y="600.93359"
+           style="letter-spacing:7.44897652;fill:#000000">KATELLO</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 207.42857,488.50504 c 5.42947,-11.16569 13.8333,-20.86814 24.10985,-27.8355 10.27655,-6.96737 22.40065,-11.18257 34.78301,-12.09307 2.92154,-0.21483 5.85633,-0.24937 8.78212,-0.10338 -10.07168,0.58019 -20.01137,3.35348 -28.92857,8.07143 -12.8893,6.81952 -23.56728,17.74304 -30.09207,30.78401 l 66.19208,56.85696 -74.84642,-55.68045"
+         id="path7815"
+         inkscape:path-effect="#path-effect3859-6"
+         inkscape:original-d="m 207.42857,488.50504 c 0,0 45.32143,-33.14286 58.89286,-39.92857 10.96083,-5.12607 -1.93219,-0.86388 8.78212,-0.10338 0,0 -17.85714,1.64286 -28.92857,8.07143 -2.76786,1.60714 -22.51119,23.85398 -30.09207,30.78401 14.03739,13.20581 37.79287,45.28478 66.19208,56.85696 -24.69433,-14.84368 -54.82543,-35.12887 -74.84642,-55.68045 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsccc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00396276;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path7817"
+         sodipodi:cx="450.89285"
+         sodipodi:cy="810.04077"
+         sodipodi:rx="11.964286"
+         sodipodi:ry="6.25"
+         d="m 462.85714,810.04077 c 0,3.45178 -5.35659,6.25 -11.96429,6.25 -6.60769,0 -11.96428,-2.79822 -11.96428,-6.25 0,-3.45178 5.35659,-6.25 11.96428,-6.25 6.6077,0 11.96429,2.79822 11.96429,6.25 z"
+         transform="matrix(0.59303903,0.1105671,-0.24087288,1.1234386,213.71175,-513.92872)"
+         inkscape:transform-center-x="-6.4151601"
+         inkscape:transform-center-y="-9.3168645" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text7819"
+         y="580.82983"
+         x="283.55844"
+         style="font-size:12.10442638px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Overpass;-inkscape-font-specification:Overpass Bold"
+         xml:space="preserve"><tspan
+           y="580.82983"
+           x="283.55844"
+           id="tspan7821"
+           sodipodi:role="line">™</tspan></text>
+    </g>
+  </g>
+</svg>
